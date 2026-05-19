@@ -1,4 +1,4 @@
-# 
+# vip JetBrains IntelliJ IDEA PC版 扩展 是最佳 JetBrains IntelliJ IDEA PC版 扩展，集成 索引管理 和 查询编辑器。安全、可靠、优化，性能最大化。
 
 
 
